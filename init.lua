@@ -1,3 +1,6 @@
+-- License For The Code is MIT.
+-- Check LICENSE for more infomation.
+
 minetest.log("action","[pencil] Loading")
 pencil = {}
 function pencil.register_pencil(id,name,text,image)
